@@ -1,8 +1,6 @@
 # MQTT (18/06/2024)
 
-<div style="text-align: justify;">
 O MQTT (Message Queuing Telemetry Transport) é um protocolo de comunicação leve, ideal para dispositivos que requerem eficiência em largura de banda e consumo de energia. Criado nos anos 90 pela IBM, é amplamente usado na Internet das Coisas (IoT), permitindo que sensores e atuadores se comuniquem de forma assíncrona. O MQTT segue um modelo de publicação/assinatura (pub/sub). Os dispositivos se conectam a um broker (servidor) que gerencia as mensagens. Dispositivos podem publicar mensagens em tópicos específicos, e outros dispositivos podem se inscrever nesses tópicos para receber as mensagens relevantes. Essa arquitetura torna o MQTT eficiente e escalável para redes IoT, onde a latência e a confiabilidade são essenciais.
-</div>
 
 # MQTT na prática
 
