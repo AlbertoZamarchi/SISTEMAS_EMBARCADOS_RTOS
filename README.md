@@ -92,6 +92,11 @@ O MQTT (Message Queuing Telemetry Transport) é um protocolo de comunicação le
       client.loop();  // Mantém a conexão MQTT viva e processa mensagens
     }
 
+## Prints do Broker, Subscribe e Publish
+![IMG-20240618-WA0100](https://github.com/AlbertoZamarchi/SISTEMAS_EMBARCADOS_RTOS/assets/107437069/ea36e0f1-6ccf-41ba-8fe9-d55378251afa)
+
+![IMG-20240618-WA0102](https://github.com/AlbertoZamarchi/SISTEMAS_EMBARCADOS_RTOS/assets/107437069/6bf01251-ce04-4d9f-b484-4011a874927b)
+
 
 # Sistemas Embarcados RTOS (04/06/2024)
 
