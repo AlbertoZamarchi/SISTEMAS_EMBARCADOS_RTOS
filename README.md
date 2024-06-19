@@ -5,10 +5,10 @@ O MQTT (Message Queuing Telemetry Transport) é um protocolo de comunicação le
 </p>
 
 # MQTT na prática
-<p align="justify">
-* Publish (Publicar): Dispositivos enviam mensagens para tópicos específicos no broker MQTT. Cada mensagem é enviada para um tópico determinado, organizando a informação de forma clara e acessível.
-* Subscribe (Assinar): Dispositivos se inscrevem em tópicos para receber mensagens publicadas nesses tópicos. Quando inscritos, os dispositivos recebem automaticamente as mensagens enviadas para esses tópicos.
-* Broker MQTT: Servidor que gerencia a comunicação entre dispositivos, recebendo mensagens dos publicadores e distribuindo-as aos assinantes dos tópicos correspondentes. O broker centraliza e organiza a troca de informações.
+
+* <p align="justify"> Publish (Publicar): Dispositivos enviam mensagens para tópicos específicos no broker MQTT. Cada mensagem é enviada para um tópico determinado, organizando a informação de forma clara e acessível. </p>
+* <p align="justify"> Subscribe (Assinar): Dispositivos se inscrevem em tópicos para receber mensagens publicadas nesses tópicos. Quando inscritos, os dispositivos recebem automaticamente as mensagens enviadas para esses tópicos.  </p>
+* <p align="justify"> Broker MQTT: Servidor que gerencia a comunicação entre dispositivos, recebendo mensagens dos publicadores e distribuindo-as aos assinantes dos tópicos correspondentes. O broker centraliza e organiza a troca de informações. </p>
 </p>
 # SISTEMAS_EMBARCADOS_RTOS (04/06/2024)
 
